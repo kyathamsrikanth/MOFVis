@@ -4,12 +4,6 @@
 
 'MOFVis,' is a specialized web application designed to transform MOF research by providing unique and interactive visualizations that connect structural information to functional properties and simplify the exploration of MOF structures, fostering deeper insights and accelerating the pace of MOF-related discoveries.
 
-## Team Members
-
-- Venkata Sesha Phani, Vakicherla
-- Srikanth Kyatham
-- Sri Sai Kiran Reddy Gorla
-
 ## Repository details
 
 This project frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
